@@ -167,7 +167,7 @@ section {
 }
 .steps p {
     color: #39a6b2;
-    font-size: 23px:
+    font-size: 23px;
 }
 .steps span {
     font-size: 38px;
@@ -228,9 +228,29 @@ section {
     width: 410px;
     display: inline-block;
     vertical-align: top;
-    text-align: top;
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
 
+}
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+.contact-info a {
+    color: #fce138;
+}
+.contact-info p {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
 }

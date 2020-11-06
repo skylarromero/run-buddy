@@ -23,6 +23,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 header a{
@@ -46,6 +47,7 @@ header nav ul li a {
     padding:10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 /* apply styles to <footer> */
 footer {
@@ -98,6 +100,7 @@ section {
     font-style: italic;
     font-size: 55px;
     color: #fce138;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .hero-form {
     width: 40%;
@@ -412,7 +415,7 @@ section {
         text-align: center;
         justify-content: center;
     }
-    step-img {
+    .step-img {
         flex: 0 32%;
         margin-right: 0;
         margin-top: 15px;
